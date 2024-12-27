@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 #SBATCH -p hpc-bio-pacioli
-#SBATCH --chdir=/home/alumno05/lab1
+#SBATCH --chdir=/home/alumno05/gitlab
 #SBATCH -J sample
 #SBATCH --cpus-per-task=1
 #SBATCH --mail-type=NONE    #END/START/NONE
